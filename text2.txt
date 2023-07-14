@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my second text
+=======
+i loved my second text
+>>>>>>> runa
